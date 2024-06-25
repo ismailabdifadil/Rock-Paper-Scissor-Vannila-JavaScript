@@ -7,17 +7,17 @@ body {
 .container {
   display: flex;
   justify-content: center;
-  align-items: center;
+  aign-content: center;
 }
 
 .move-icon {
-  width: 50px;
+  width: 48px;
 }
 .move-button {
   background-color: transparent;
   border: 4px solid white;
-  width: 120px;
-  height: 120px;
+  width: 110px;
+  height: 110px;
   border-radius: 60px;
   margin-right: 8px;
   cursor: pointer;
